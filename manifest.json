@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "quick-define",
+	"name": "Quick Define",
+	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Easily fetch definitions by highlighting words, insipred by Google Dictionary",
+	"author": "Deniz Terzioglu",
+	"authorUrl": "https://d-eniz.github.io/",
 	"isDesktopOnly": false
 }
